@@ -1,2 +1,12 @@
-# bot_invoice
-Projeto de estudos: Automação de processamento de notas fiscais usando Python, Tesseract OCR e PDF processing. Desenvolvido para aprendizado de RPA e web scraping.
+## 📚 Sobre o Projeto
+
+Este é um **projeto de estudos** desenvolvido para aprendizado de:
+- Automação RPA (Robotic Process Automation)
+- OCR (Optical Character Recognition) 
+- Processamento de documentos PDF
+- Extração de dados estruturados
+- Boas práticas em Python
+
+**Objetivo:** Preparação para vaga júnior em automação/RPA.
+
+**Status:** 🚧 Em desenvolvimento ativo
