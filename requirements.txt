@@ -1,0 +1,16 @@
+# BOT_INVOICE - Dependências
+# Automação Web
+playwright==1.49.0
+
+# OCR
+pytesseract==0.3.13
+pdf2image==1.17.0
+opencv-python==4.10.0.84
+Pillow==11.0.0
+
+# Dados
+pandas==2.2.3
+openpyxl==3.1.5
+
+# Extras
+python-dotenv==1.0.1
